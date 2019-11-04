@@ -1,0 +1,32 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                17,
+                26,
+                53,
+                96
+            ),
+                        (
+                55,
+                43,
+                70,
+                58
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Th\U00e1ng 4",
+                "Th\U00e1ng 5",
+                "Th\U00e1ng 6",
+                "Th\U00e1ng 7"
+            );
+            RowNames =             (
+                "V\U00f9ng 1",
+                "V\U00f9ng 2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

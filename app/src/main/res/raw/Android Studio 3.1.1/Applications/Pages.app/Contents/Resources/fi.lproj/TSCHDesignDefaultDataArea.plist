@@ -1,0 +1,60 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                10,
+                10,
+                10
+            ),
+                        (
+                20,
+                20,
+                20,
+                20
+            ),
+                        (
+                30,
+                30,
+                30,
+                30
+            ),
+                        (
+                40,
+                40,
+                40,
+                40
+            ),
+                        (
+                50,
+                50,
+                50,
+                50
+            ),
+                        (
+                60,
+                60,
+                60,
+                60
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                huhtikuu,
+                toukokuu,
+                "kes\U00e4kuu",
+                "hein\U00e4kuu"
+            );
+            RowNames =             (
+                "Alue 1",
+                "Alue 2",
+                "Alue 3",
+                "Alue 4",
+                "Alue 5",
+                "Alue 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

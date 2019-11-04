@@ -1,0 +1,60 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                1,
+                1,
+                1,
+                1
+            ),
+                        (
+                2,
+                2,
+                2,
+                2
+            ),
+                        (
+                3,
+                3,
+                3,
+                3
+            ),
+                        (
+                4,
+                4,
+                4,
+                4
+            ),
+                        (
+                5,
+                5,
+                5,
+                5
+            ),
+                        (
+                100,
+                100,
+                100,
+                100
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                April,
+                Mei,
+                Jun,
+                Julai
+            );
+            RowNames =             (
+                "Rantau 1",
+                "Rantau 2",
+                "Rantau 3",
+                "Rantau 4",
+                "Rantau 5",
+                "Rantau 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

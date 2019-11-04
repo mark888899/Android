@@ -1,0 +1,89 @@
+/*
+ *  Pad.css
+ *  Notes
+ *
+ *  Created on 01/15/2012.
+ *  Copyright 2012 Apple Inc. All rights reserved.
+ * 
+ *  This gets fed into UserStyleSheetGenerator for variable substitutions (e.g. @[VAR_NAME])
+ */
+
+body {
+    margin: @[MARGIN_TOP]px 14px @[MARGIN_BOTTOM] 19px;
+    padding: 0;
+    font: @[FONT_SIZE]px @[FONT_NAME];
+    word-wrap: break-word;
+    line-height:1.35;
+
+    /* Notes from Mail can have a bgcolor set in the HTML, so override it to a clear color */
+    background: rgba(0,0,0,0) !important;
+}
+
+ul, ol {
+    margin: 0;
+    padding-left: 2em;
+}
+
+ul ul, ol ol {
+    padding-left: 1em;
+}
+
+/* Dash list Styles */
+ul.Apple-dash-list, ul.Apple-dash-list ul {
+    list-style-type: none;
+}
+    
+ul.Apple-dash-list li:before {
+    content: "\2013";
+    position: absolute;
+    margin: 0 -1.25em;
+}
+
+/* Ordered List Styles - Support 9 deep, like Pages, then fall back to dashes */
+ol, ol ol ol ol, ol ol ol ol ol ol ol {
+    list-style-type: decimal;
+}
+
+ol ol, ol ol ol ol ol, ol ol ol ol ol ol ol ol {
+    list-style-type: lower-alpha;
+}
+
+ol ol ol, ol ol ol ol ol ol, ol ol ol ol ol ol ol ol ol {
+    list-style-type: lower-roman;
+}
+
+ol ol ol ol ol ol ol ol ol ol {
+    list-style-type: none;
+}
+
+ol ol ol ol ol ol ol ol ol ol li:before {
+    content: "\2013";
+    position: absolute;
+    -webkit-margin-start: -1.25em;
+}
+
+a {
+    color: rgb(158, 75, 47);
+    text-decoration: underline;
+}
+
+object {
+    cursor: default;
+    -webkit-user-drag: element;
+    -webkit-user-modify: read-only;
+    vertical-align: bottom;
+}
+
+img {
+    vertical-align: top;
+    max-width: 100%;
+}
+
+/* Override a few properties when printing */
+@media print {
+    body {
+        margin: 0 !important;
+        padding: 0 !important;
+        font: 13px @[FONT_NAME] !important;
+    }
+}

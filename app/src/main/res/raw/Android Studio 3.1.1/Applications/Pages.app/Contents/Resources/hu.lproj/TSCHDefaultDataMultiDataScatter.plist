@@ -1,0 +1,82 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                0,
+                30
+            ),
+                        (
+                3,
+                4,
+                11,
+                38
+            ),
+                        (
+                5,
+                5,
+                19,
+                20
+            ),
+                        (
+                6,
+                8,
+                26,
+                17
+            ),
+                        (
+                8,
+                13,
+                33,
+                24
+            ),
+                        (
+                9,
+                16,
+                40,
+                31
+            ),
+                        (
+                11,
+                18,
+                70,
+                23
+            ),
+                        (
+                12,
+                20,
+                51,
+                15
+            ),
+                        (
+                15,
+                24,
+                40,
+                6
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "1-es r\U00e9gi\U00f3",
+                "1-es r\U00e9gi\U00f3",
+                "2-es r\U00e9gi\U00f3",
+                "3-as r\U00e9gi\U00f3"
+            );
+            RowNames =             (
+                "\U00c1prilis",
+                "M\U00e1jus",
+                "J\U00fanius",
+                "J\U00falius",
+                Augusztus,
+                Szeptember,
+                "Okt\U00f3ber",
+                November,
+                December
+            );
+        };
+    };
+    Model =     {
+    };
+}

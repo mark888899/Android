@@ -1,0 +1,60 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                1,
+                1,
+                1,
+                1
+            ),
+                        (
+                2,
+                2,
+                2,
+                2
+            ),
+                        (
+                3,
+                3,
+                3,
+                3
+            ),
+                        (
+                4,
+                4,
+                4,
+                4
+            ),
+                        (
+                5,
+                5,
+                5,
+                5
+            ),
+                        (
+                100,
+                100,
+                100,
+                100
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Aprilie,
+                Mai,
+                Iunie,
+                Iulie
+            );
+            RowNames =             (
+                "Regiunea 1",
+                "Regiunea 2",
+                "Regiunea 3",
+                "Regiunea 4",
+                "Regiunea 5",
+                "Regiunea 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

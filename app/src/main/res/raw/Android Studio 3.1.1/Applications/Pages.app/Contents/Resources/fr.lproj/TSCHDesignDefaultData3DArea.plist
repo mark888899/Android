@@ -1,0 +1,60 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                1,
+                1,
+                1,
+                1
+            ),
+                        (
+                2,
+                2,
+                2,
+                2
+            ),
+                        (
+                3,
+                3,
+                3,
+                3
+            ),
+                        (
+                4,
+                4,
+                4,
+                4
+            ),
+                        (
+                5,
+                5,
+                5,
+                5
+            ),
+                        (
+                100,
+                100,
+                100,
+                100
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Avril,
+                Mai,
+                Juin,
+                Juillet
+            );
+            RowNames =             (
+                "R\U00e9gion 1",
+                "R\U00e9gion 2",
+                "R\U00e9gion\U00a03",
+                "R\U00e9gion\U00a04",
+                "R\U00e9gion\U00a05",
+                "R\U00e9gion\U00a06"
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,30 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                91,
+                76,
+                28,
+                26,
+                21,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Duben,
+                "Kv\U011bten",
+                "\U010cerven",
+                "\U010cervenec",
+                Srpen,
+                "Z\U00e1\U0159\U00ed"
+            );
+            RowNames =             (
+                "Region 1"
+            );
+        };
+    };
+    Model =     {
+    };
+}

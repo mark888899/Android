@@ -1,0 +1,30 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                91,
+                76,
+                28,
+                26,
+                21,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                april,
+                maj,
+                juni,
+                juli,
+                august,
+                september
+            );
+            RowNames =             (
+                "Omr\U00e5de 1"
+            );
+        };
+    };
+    Model =     {
+    };
+}

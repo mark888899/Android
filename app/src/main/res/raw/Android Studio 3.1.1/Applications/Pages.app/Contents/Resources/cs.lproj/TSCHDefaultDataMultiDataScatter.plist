@@ -1,0 +1,82 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                0,
+                30
+            ),
+                        (
+                3,
+                4,
+                11,
+                38
+            ),
+                        (
+                5,
+                5,
+                19,
+                20
+            ),
+                        (
+                6,
+                8,
+                26,
+                17
+            ),
+                        (
+                8,
+                13,
+                33,
+                24
+            ),
+                        (
+                9,
+                16,
+                40,
+                31
+            ),
+                        (
+                11,
+                18,
+                70,
+                23
+            ),
+                        (
+                12,
+                20,
+                51,
+                15
+            ),
+                        (
+                15,
+                24,
+                40,
+                6
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Region 1",
+                "Region 1",
+                "Region 2",
+                "Region 3"
+            );
+            RowNames =             (
+                Duben,
+                "Kv\U011bten",
+                "\U010cerven",
+                "\U010cervenec",
+                Srpen,
+                "Z\U00e1\U0159\U00ed",
+                "\U0158\U00edjen",
+                Listopad,
+                Prosinec
+            );
+        };
+    };
+    Model =     {
+    };
+}

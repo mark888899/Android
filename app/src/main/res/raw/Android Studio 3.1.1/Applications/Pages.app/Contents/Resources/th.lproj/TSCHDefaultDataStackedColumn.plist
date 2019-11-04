@@ -1,0 +1,32 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                27,
+                36,
+                63,
+                143
+            ),
+                        (
+                55,
+                43,
+                80,
+                48
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U0e40\U0e21\U0e29\U0e32\U0e22\U0e19",
+                "\U0e1e\U0e24\U0e29\U0e20\U0e32\U0e04\U0e21",
+                "\U0e21\U0e34\U0e16\U0e38\U0e19\U0e32\U0e22\U0e19",
+                "\U0e01\U0e23\U0e01\U0e0e\U0e32\U0e04\U0e21"
+            );
+            RowNames =             (
+                "\U0e1e\U0e37\U0e49\U0e19\U0e17\U0e35\U0e48 1",
+                "\U0e1e\U0e37\U0e49\U0e19\U0e17\U0e35\U0e48 2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

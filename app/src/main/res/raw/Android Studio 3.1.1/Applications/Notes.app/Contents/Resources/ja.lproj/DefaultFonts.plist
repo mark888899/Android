@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontName</key>
+		<string>HiraKakuProN-W3</string>
+		<key>Size</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>HiraMaruProN-W4</string>
+		<key>Size</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>HiraMinProN-W3</string>
+		<key>Size</key>
+		<integer>12</integer>
+	</dict>
+</array>
+</plist>

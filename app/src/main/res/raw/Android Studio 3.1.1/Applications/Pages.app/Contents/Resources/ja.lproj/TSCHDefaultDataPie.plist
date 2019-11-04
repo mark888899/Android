@@ -1,0 +1,30 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                91,
+                76,
+                28,
+                26,
+                21,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "4 \U6708",
+                "5 \U6708",
+                "6 \U6708",
+                "7 \U6708",
+                "8 \U6708",
+                "9 \U6708"
+            );
+            RowNames =             (
+                "\U5730\U57df1"
+            );
+        };
+    };
+    Model =     {
+    };
+}

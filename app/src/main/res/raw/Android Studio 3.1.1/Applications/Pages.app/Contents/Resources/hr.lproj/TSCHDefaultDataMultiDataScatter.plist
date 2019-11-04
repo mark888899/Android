@@ -1,0 +1,82 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                0,
+                30
+            ),
+                        (
+                3,
+                4,
+                11,
+                38
+            ),
+                        (
+                5,
+                5,
+                19,
+                20
+            ),
+                        (
+                6,
+                8,
+                26,
+                17
+            ),
+                        (
+                8,
+                13,
+                33,
+                24
+            ),
+                        (
+                9,
+                16,
+                40,
+                31
+            ),
+                        (
+                11,
+                18,
+                70,
+                23
+            ),
+                        (
+                12,
+                20,
+                51,
+                15
+            ),
+                        (
+                15,
+                24,
+                40,
+                6
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Podru\U010dje 1",
+                "Podru\U010dje 1",
+                "Podru\U010dje 2",
+                "Podru\U010dje 3"
+            );
+            RowNames =             (
+                Travanj,
+                Svibanj,
+                Lipanj,
+                Srpanj,
+                Kolovoz,
+                Rujan,
+                Listopad,
+                Studeni,
+                Prosinac
+            );
+        };
+    };
+    Model =     {
+    };
+}

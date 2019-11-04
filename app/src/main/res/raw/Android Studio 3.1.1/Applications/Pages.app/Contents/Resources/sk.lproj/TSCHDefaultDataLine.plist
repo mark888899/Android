@@ -1,0 +1,32 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                17,
+                26,
+                53,
+                96
+            ),
+                        (
+                55,
+                43,
+                70,
+                58
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Apr\U00edl",
+                "M\U00e1j",
+                "J\U00fan",
+                "J\U00fal"
+            );
+            RowNames =             (
+                "Oblas\U0165 1",
+                "Oblas\U0165 2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

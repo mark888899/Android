@@ -1,0 +1,72 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                20
+            ),
+                        (
+                3,
+                4,
+                34
+            ),
+                        (
+                5,
+                5,
+                12
+            ),
+                        (
+                6,
+                8,
+                50
+            ),
+                        (
+                8,
+                13,
+                70
+            ),
+                        (
+                9,
+                16,
+                35
+            ),
+                        (
+                11,
+                18,
+                68
+            ),
+                        (
+                12,
+                20,
+                22
+            ),
+                        (
+                15,
+                24,
+                35
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                huhtikuu,
+                toukokuu,
+                "kes\U00e4kuu"
+            );
+            RowNames =             (
+                huhtikuu,
+                toukokuu,
+                "kes\U00e4kuu",
+                "hein\U00e4kuu",
+                elokuu,
+                syyskuu,
+                lokakuu,
+                marraskuu,
+                joulukuu
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,75 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                4,
+                0
+            ),
+                        (
+                3,
+                4,
+                7,
+                2
+            ),
+                        (
+                5,
+                5,
+                8,
+                4
+            ),
+                        (
+                6,
+                8,
+                11,
+                6
+            ),
+                        (
+                8,
+                13,
+                14,
+                8
+            ),
+                        (
+                9,
+                16,
+                15,
+                12
+            ),
+                        (
+                11,
+                18,
+                17,
+                15
+            ),
+                        (
+                12,
+                20,
+                20,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Kwiecie\U0144",
+                Maj,
+                Czerwiec,
+                Lipiec
+            );
+            RowNames =             (
+                "Kwiecie\U0144",
+                Maj,
+                Czerwiec,
+                Lipiec,
+                "Sierpie\U0144",
+                "Wrzesie\U0144",
+                "Pa\U017adziernik",
+                Listopad
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbg">
+
+    <ImageView
+        android:id="@+id/imageSnorlax"
+        android:layout_width="45dp"
+        android:layout_height="56dp"
+        android:layout_alignEnd="@+id/imagePulse"
+        android:layout_alignTop="@+id/Bag" />
+
+    <ImageView
+        android:id="@+id/Bag"
+        android:layout_width="57dp"
+        android:layout_height="69dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="onBagClick"
+        android:src="@drawable/backpack" />
+
+    <ImageView
+        android:id="@+id/imageVulpix"
+        android:layout_width="47dp"
+        android:layout_height="51dp"
+        android:layout_above="@+id/imageWailmer"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="-168dp" />
+
+    <ImageView
+        android:id="@+id/imageMew"
+        android:layout_width="59dp"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="29dp" />
+
+    <ImageView
+        android:id="@+id/imageMinun"
+        android:layout_width="46dp"
+        android:layout_height="40dp"
+        android:layout_alignTop="@+id/imagePulse"
+        android:layout_toStartOf="@+id/imagePulse" />
+
+    <ImageView
+        android:id="@+id/imagePulse"
+        android:layout_width="39dp"
+        android:layout_height="37dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="103dp"
+        android:layout_marginEnd="129dp" />
+
+    <ImageView
+        android:id="@+id/imageWailmer"
+        android:layout_width="43dp"
+        android:layout_height="45dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="168dp" />
+
+    <ImageView
+        android:id="@+id/Character"
+        android:layout_width="39dp"
+        android:layout_height="92dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="181dp"
+        android:layout_marginEnd="151dp" />
+
+    <ImageView
+        android:id="@+id/imageSlowbro"
+        android:layout_width="41dp"
+        android:layout_height="43dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="86dp" />
+
+    <ImageView
+        android:id="@+id/imageDartini"
+        android:layout_width="47dp"
+        android:layout_height="38dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="19dp" />
+
+</RelativeLayout>

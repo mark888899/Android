@@ -1,0 +1,67 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                0,
+                60,
+                0,
+                10
+            ),
+                        (
+                20,
+                0,
+                50,
+                0,
+                20
+            ),
+                        (
+                30,
+                0,
+                40,
+                0,
+                30
+            ),
+                        (
+                40,
+                0,
+                30,
+                0,
+                40
+            ),
+                        (
+                50,
+                0,
+                20,
+                0,
+                50
+            ),
+                        (
+                60,
+                0,
+                10,
+                0,
+                60
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                April,
+                Mai,
+                Juni,
+                Juli,
+                August
+            );
+            RowNames =             (
+                "Omr\U00e5de 1",
+                "Omr\U00e5de 2",
+                "Omr\U00e5de 3",
+                "Omr\U00e5de 4",
+                "Omr\U00e5de 5",
+                "Omr\U00e5de 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

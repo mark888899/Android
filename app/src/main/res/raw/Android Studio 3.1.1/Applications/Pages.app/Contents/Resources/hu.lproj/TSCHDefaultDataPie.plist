@@ -1,0 +1,30 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                91,
+                76,
+                28,
+                26,
+                21,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U00c1prilis",
+                "M\U00e1jus",
+                "J\U00fanius",
+                "J\U00falius",
+                Augusztus,
+                Szeptember
+            );
+            RowNames =             (
+                "1-es r\U00e9gi\U00f3"
+            );
+        };
+    };
+    Model =     {
+    };
+}

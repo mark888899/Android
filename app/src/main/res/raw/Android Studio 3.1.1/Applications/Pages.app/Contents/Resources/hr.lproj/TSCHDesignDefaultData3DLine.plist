@@ -1,0 +1,67 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                100,
+                0,
+                100,
+                0,
+                100
+            ),
+                        (
+                100,
+                0,
+                100,
+                0,
+                100
+            ),
+                        (
+                100,
+                0,
+                100,
+                0,
+                100
+            ),
+                        (
+                100,
+                0,
+                100,
+                0,
+                100
+            ),
+                        (
+                100,
+                0,
+                100,
+                0,
+                100
+            ),
+                        (
+                100,
+                0,
+                100,
+                0,
+                100
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Travanj,
+                Svibanj,
+                Lipanj,
+                Srpanj,
+                Kolovoz
+            );
+            RowNames =             (
+                "Podru\U010dje 1",
+                "Podru\U010dje 2",
+                "Podru\U010dje 3",
+                "Podru\U010dje 4",
+                "Podru\U010dje 5",
+                "Podru\U010dje 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/newbg"
+    tools:context=".controller.StartActivity">
+
+    <ImageView
+        android:id="@+id/selectCharacter"
+        android:layout_width="217dp"
+        android:layout_height="282dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="31dp" />
+
+
+    <RadioGroup
+        android:id="@+id/radGrpSex"
+        android:layout_width="77dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/startcheck"
+        android:layout_marginBottom="167dp"
+        android:background="#f0ffff">
+
+        <RadioButton
+            android:id="@+id/radBtMale"
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:text="@string/male"
+            android:textColor="#0000FF " />
+
+        <RadioButton
+            android:id="@+id/radBtFemale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/female"
+            android:textColor="#ff1493 " />
+
+
+    </RadioGroup>
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/selectCharacter"
+        android:layout_below="@+id/name"
+        android:layout_marginTop="-116dp"
+        android:ems="10"
+        android:hint="@string/entername"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/startcheck"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="76dp"
+        android:layout_marginEnd="30dp"
+        android:background="#f0ffff"
+        android:text="@string/done"></Button>
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="115dp"
+        android:layout_marginStart="80dp"
+        android:text="@string/name"
+        android:textColor="@android:color/white"
+        android:textSize="25dp"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="34dp" />
+
+
+</RelativeLayout>

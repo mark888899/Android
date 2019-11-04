@@ -1,0 +1,99 @@
+{
+    "default set" = (
+        "performClose:",
+        "7px space",
+        "deleteMessages:",
+        "22px space",
+        "replyMessage:",
+        "0px space",
+        "replyAllMessage:",
+        "0px space",
+        "forwardMessage:",
+        NSToolbarFlexibleSpaceItem,
+        "showPrintPanel:",
+        "5px space",
+        "toggleFlaggedStatusInFullScreen:",
+        "showFlagMenuInFullScreen:",
+    );
+    "toolbar array" = (
+        (
+            {
+                textButton = 1;
+                help = "ToolTipCloseViewer";
+                identifier = "performClose:";
+                tag = -1;
+                target = "MessageViewer";
+                title = "ToolbarCloseViewer";
+                label = "ToolbarCloseViewer";
+            },
+            {
+                help = "DeleteToolTip";
+                identifier = "deleteMessages:";
+                image = TB_Delete_Fullscreen;
+                inactiveImage = TB_Delete_Fullscreen;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 70;
+                title = "DeleteToolbarTitle";
+                altTitle = "UndeleteToolbarTitle";
+            },
+            {
+                help = "ReplyToolTip";
+                identifier = "replyMessage:";
+                image = TB_Reply_FullscreenTemplate;
+                inactiveImage = TB_Reply_FullscreenTemplate;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 71;
+                title = "ToolbarReply";
+            },
+            {
+                help = "ReplyToAllToolTip";
+                identifier = "replyAllMessage:";
+                image = TB_Reply_All_FullscreenTemplate;
+                inactiveImage = TB_Reply_All_FullscreenTemplate;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 72;
+                title = "ToolbarReplyAll";
+            },
+            {
+                help = "ToolTipForward";
+                identifier = "forwardMessage:";
+                image = TB_Forward_Fullscreen;
+                inactiveImage = TB_Forward_Fullscreen;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 73;
+                title = "ToolbarForward";
+            },
+            {
+                help = "ToolTipPrintCompose";
+                identifier = "showPrintPanel:";
+                image = TB_Print_Fullscreen;
+                inactiveImage = TB_Print_Fullscreen;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 85;
+                title = "ToolbarPrint";
+            },
+            {
+                identifier = "toggleFlaggedStatusInFullScreen:";
+                image = "fullscreen_flagged-0";
+                inactiveImage = "fullscreen_flagged-0";
+                borderless = 1;
+                tag = 153;
+                target = "MessageViewer";
+                title = "SetFlaggedStatusToolbarTitle";
+            },
+            {
+                identifier = "showFlagMenuInFullScreen:";
+                image = empty;
+                borderless = 1;
+                tag = 154;
+                target = "MessageViewer";
+                title = "SetFlaggedStatusToolbarTitle";
+            },
+        )
+    );
+}

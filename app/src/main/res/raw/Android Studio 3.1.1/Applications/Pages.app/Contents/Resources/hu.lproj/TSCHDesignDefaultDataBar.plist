@@ -1,0 +1,46 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                60
+            ),
+                        (
+                20,
+                50
+            ),
+                        (
+                30,
+                40
+            ),
+                        (
+                40,
+                30
+            ),
+                        (
+                50,
+                20
+            ),
+                        (
+                60,
+                10
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U00c1prilis",
+                "M\U00e1jus"
+            );
+            RowNames =             (
+                "1-es r\U00e9gi\U00f3",
+                "2-es r\U00e9gi\U00f3",
+                "3-as r\U00e9gi\U00f3",
+                "4-es r\U00e9gi\U00f3",
+                "5-\U00f6s r\U00e9gi\U00f3",
+                "6-os r\U00e9gi\U00f3"
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Data sencera</string>
+		</dict>
+		<integer>4</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Data completa</string>
+		</dict>
+		<integer>3</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Data mitjana</string>
+		</dict>
+		<integer>2</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Data curta</string>
+		</dict>
+		<integer>1</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Hora curta</string>
+		</dict>
+		<integer>0</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Hora mitjana</string>
+		</dict>
+		<integer>0</integer>
+		<integer>2</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Data i hora completes</string>
+		</dict>
+		<integer>3</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Personalitzar</string>
+		</dict>
+		<integer>0</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+</array>
+</plist>

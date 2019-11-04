@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>16B2345a</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>MailWebPlugIn</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.mail.WebPlugIn</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MailWebPlugIn</string>
+	<key>CFBundlePackageType</key>
+	<string>WBPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>10.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>3251</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>8R174l</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>16B2345a</string>
+	<key>DTSDKName</key>
+	<string>macosx10.12internal</string>
+	<key>DTXcode</key>
+	<string>0800</string>
+	<key>DTXcodeBuild</key>
+	<string>8R174l</string>
+	<key>NSPrincipalClass</key>
+	<string>MailPlugInViewFactory</string>
+	<key>WebPluginDescription</key>
+	<string>Renders attachments in Mail messages.</string>
+	<key>WebPluginMIMETypes</key>
+	<dict>
+		<key>application/x-apple-msg-attachment</key>
+		<dict>
+			<key>WebPluginTypeDescription</key>
+			<string>Mail Attachments</string>
+		</dict>
+		<key>application/x-apple-msg-composite-image</key>
+		<dict>
+			<key>WebPluginTypeDescription</key>
+			<string>Mail Composite Images</string>
+		</dict>
+	</dict>
+	<key>WebPluginName</key>
+	<string>Mail Attachment Rendering PlugIn</string>
+</dict>
+</plist>

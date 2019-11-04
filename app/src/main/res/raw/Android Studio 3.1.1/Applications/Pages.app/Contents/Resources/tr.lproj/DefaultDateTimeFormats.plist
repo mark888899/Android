@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Tam Tarih</string>
+		</dict>
+		<integer>4</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Uzun Tarih</string>
+		</dict>
+		<integer>3</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Orta Uzunlukta Tarih</string>
+		</dict>
+		<integer>2</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Kısa Tarih</string>
+		</dict>
+		<integer>1</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Kısa Saat</string>
+		</dict>
+		<integer>0</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Orta Uzunlukta Saat</string>
+		</dict>
+		<integer>0</integer>
+		<integer>2</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Uzun Tarih Saat</string>
+		</dict>
+		<integer>3</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Özel</string>
+		</dict>
+		<integer>0</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+</array>
+</plist>

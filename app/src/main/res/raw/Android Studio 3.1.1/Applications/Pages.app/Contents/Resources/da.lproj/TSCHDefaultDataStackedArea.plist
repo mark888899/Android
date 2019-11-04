@@ -1,0 +1,32 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                27,
+                36,
+                63,
+                143
+            ),
+                        (
+                55,
+                43,
+                80,
+                48
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                april,
+                maj,
+                juni,
+                juli
+            );
+            RowNames =             (
+                "Omr\U00e5de 1",
+                "Omr\U00e5de 2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

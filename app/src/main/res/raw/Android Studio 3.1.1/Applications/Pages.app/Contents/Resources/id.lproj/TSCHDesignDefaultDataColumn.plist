@@ -1,0 +1,46 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                60
+            ),
+                        (
+                20,
+                50
+            ),
+                        (
+                30,
+                40
+            ),
+                        (
+                40,
+                30
+            ),
+                        (
+                50,
+                20
+            ),
+                        (
+                60,
+                10
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                April,
+                Mei
+            );
+            RowNames =             (
+                "Wilayah 1",
+                "Wilayah 2",
+                "Wilayah 3",
+                "Wilayah 4",
+                "Wilayah 5",
+                "Wilayah 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

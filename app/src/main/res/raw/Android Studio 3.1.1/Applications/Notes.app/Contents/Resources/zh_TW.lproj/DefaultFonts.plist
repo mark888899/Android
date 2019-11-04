@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontName</key>
+		<string>HannotateTC-W5</string>
+		<key>Size</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>HanziPenTC-W3</string>
+		<key>Size</key>
+		<integer>12</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Helvetica Neue</string>
+		<key>Size</key>
+		<integer>12</integer>
+	</dict>
+</array>
+</plist>

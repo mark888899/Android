@@ -1,0 +1,32 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                17,
+                26,
+                53,
+                96
+            ),
+                        (
+                55,
+                43,
+                70,
+                58
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Travanj,
+                Svibanj,
+                Lipanj,
+                Srpanj
+            );
+            RowNames =             (
+                "Podru\U010dje 1",
+                "Podru\U010dje 2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

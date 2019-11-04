@@ -1,0 +1,67 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                0,
+                60,
+                0,
+                10
+            ),
+                        (
+                20,
+                0,
+                50,
+                0,
+                20
+            ),
+                        (
+                30,
+                0,
+                40,
+                0,
+                30
+            ),
+                        (
+                40,
+                0,
+                30,
+                0,
+                40
+            ),
+                        (
+                50,
+                0,
+                20,
+                0,
+                50
+            ),
+                        (
+                60,
+                0,
+                10,
+                0,
+                60
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U00c1prilis",
+                "M\U00e1jus",
+                "J\U00fanius",
+                "J\U00falius",
+                Augusztus
+            );
+            RowNames =             (
+                "1-es r\U00e9gi\U00f3",
+                "2-es r\U00e9gi\U00f3",
+                "3-as r\U00e9gi\U00f3",
+                "4-es r\U00e9gi\U00f3",
+                "5-\U00f6s r\U00e9gi\U00f3",
+                "6-os r\U00e9gi\U00f3"
+            );
+        };
+    };
+    Model =     {
+    };
+}

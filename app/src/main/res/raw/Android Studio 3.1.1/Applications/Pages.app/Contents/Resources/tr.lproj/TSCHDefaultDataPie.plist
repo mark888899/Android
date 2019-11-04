@@ -1,0 +1,30 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                91,
+                76,
+                28,
+                26,
+                21,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Nisan,
+                "May\U0131s",
+                Haziran,
+                Temmuz,
+                "A\U011fustos",
+                "Eyl\U00fcl"
+            );
+            RowNames =             (
+                "B\U00f6lge 1"
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,60 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                1,
+                1,
+                1,
+                1
+            ),
+                        (
+                2,
+                2,
+                2,
+                2
+            ),
+                        (
+                3,
+                3,
+                3,
+                3
+            ),
+                        (
+                4,
+                4,
+                4,
+                4
+            ),
+                        (
+                5,
+                5,
+                5,
+                5
+            ),
+                        (
+                100,
+                100,
+                100,
+                100
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U00c1prilis",
+                "M\U00e1jus",
+                "J\U00fanius",
+                "J\U00falius"
+            );
+            RowNames =             (
+                "1-es r\U00e9gi\U00f3",
+                "2-es r\U00e9gi\U00f3",
+                "3-as r\U00e9gi\U00f3",
+                "4-es r\U00e9gi\U00f3",
+                "5-\U00f6s r\U00e9gi\U00f3",
+                "6-os r\U00e9gi\U00f3"
+            );
+        };
+    };
+    Model =     {
+    };
+}

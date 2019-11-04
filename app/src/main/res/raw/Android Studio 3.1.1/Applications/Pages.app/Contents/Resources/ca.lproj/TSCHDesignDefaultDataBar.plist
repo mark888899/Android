@@ -1,0 +1,46 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                60
+            ),
+                        (
+                20,
+                50
+            ),
+                        (
+                30,
+                40
+            ),
+                        (
+                40,
+                30
+            ),
+                        (
+                50,
+                20
+            ),
+                        (
+                60,
+                10
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Abril,
+                Maig
+            );
+            RowNames =             (
+                "Regi\U00f3 1",
+                "Regi\U00f3 2",
+                "Regi\U00f3 3",
+                "Regi\U00f3 4",
+                "Regi\U00f3 5",
+                "Regi\U00f3 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

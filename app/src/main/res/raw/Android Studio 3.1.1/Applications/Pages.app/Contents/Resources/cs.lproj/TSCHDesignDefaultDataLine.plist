@@ -1,0 +1,67 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                0,
+                60,
+                0,
+                10
+            ),
+                        (
+                20,
+                0,
+                50,
+                0,
+                20
+            ),
+                        (
+                30,
+                0,
+                40,
+                0,
+                30
+            ),
+                        (
+                40,
+                0,
+                30,
+                0,
+                40
+            ),
+                        (
+                50,
+                0,
+                20,
+                0,
+                50
+            ),
+                        (
+                60,
+                0,
+                10,
+                0,
+                60
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Duben,
+                "Kv\U011bten",
+                "\U010cerven",
+                "\U010cervenec",
+                Srpen
+            );
+            RowNames =             (
+                "Region 1",
+                "Region 2",
+                "Region 3",
+                "Region 4",
+                "Region 5",
+                "Region 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

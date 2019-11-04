@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Fight! 鯉魚王</string>
+    <string name="textNoPokemon">沒有寶可夢</string>
+    <string name="textMyPokemons">我的百寶箱</string>
+    <string name="textPokemonBag">寶可夢圖鑑</string>
+    <string name="textBallHunt">直接抓捕</string>
+    <string name="textMyPokemonHunt">戰鬥</string>
+    <string name="textPokemonDodge">%s 閃過了你的飛球</string>
+    <string name="textPokemonRunAway">你的戰鬥力不足，敵人逃跑了</string>
+    <string name="textPokemonCaught">恭喜你，%s 被捕獲</string>
+    <string name="textPokemonHunt">%s V.S. %s</string>
+    <string name="textPokemonMove">%s Attack: %s  Sp 增加:  %s</string>
+    <string name="textPokemonCharge">%s Attack: %s  Sp 花費:  %s</string>
+    <string name="remain">"剩餘次數: %s"</string>
+    <string name="Ball">寶貝球</string>
+
+    <string name="covermap">相剋表</string>
+    <string name="check">詳細資料</string>
+
+    <string name="PokemonInfo">寶可夢資料</string>
+
+    <string name="done">確定</string>
+    <string name="error2">請選擇第一隻寶可夢</string>
+    <string name="exit">離開</string>
+    <string name="exit2">確定要離開此程式嗎?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="textPokemonInfo">%s 的資訊</string>
+
+    <string name="chPokemon">選擇第一隻寶可夢</string>
+    <string name="name"> 玩家名稱</string>
+    <string name="entername"> 請輸入玩家名稱</string>
+    <string name="chsex"> 選擇角色性別</string>
+    <string name="male"> 男孩</string>
+    <string name="female"> 女孩</string>
+    <string name="pkname"><u> 寶可夢</u></string>
+    <string name="hp"><u> 血量</u></string>
+    <string name="attack"><u>攻擊</u></string>
+    <string name="defense"><u>防禦</u></string>
+    <string name="bodytype"><u>體型</u></string>
+    <string name="attribute"><u>屬性</u></string>
+
+    <string name="skill">技能</string>
+    <string name="Nirvana">必殺技</string>
+
+    <string name="currentHp"><u><b>剩餘血量</b></u></string>
+    <string name="enemyName"><u><b>敵方名稱</b></u></string>
+
+
+    <string name="textEevee"> 伊布</string>
+    <string name="textEeveeHp"> 100</string>
+    <string name="textEeveeAttack"> 7</string>
+    <string name="textEeveeDefense"> 4</string>
+    <string name="textEeveeBodytype"> 中</string>
+    <string name="textEeveeAttribute"> 草系</string>
+    <string name="textEeveeAttack1"> 電光石火</string>
+    <string name="textEeveeAttack2"> 撞擊</string>
+    <string name="textEeveeAttack3"> 速度之星</string>
+
+    <string name="textCorsola"> 太陽珊瑚</string>
+    <string name="textCorsolaHp"> 150</string>
+    <string name="textCorsolaAttack"> 5</string>
+    <string name="textCorsolaDefense"> 8</string>
+    <string name="textCorsolaBodytype"> 小</string>
+    <string name="textCorsolaAttribute"> 水系</string>
+    <string name="textCorsolaAttack1"> 泡沫</string>
+    <string name="textCorsolaAttack2"> 撞擊</string>
+    <string name="textCorsolaAttack3"> 泡沫光線</string>
+
+    <string name="textPulse"> 正電拍拍</string>
+    <string name="textPulseHp"> 80</string>
+    <string name="textPulseAttack"> 6</string>
+    <string name="textPulseDefense"> 3</string>
+    <string name="textPulseBodytype"> 小</string>
+    <string name="textPulseAttribute"> 電擊系</string>
+    <string name="textPulseAttack1"> 閃光</string>
+    <string name="textPulseAttack2"> 電光石火</string>
+    <string name="textPulseAttack3"> 十萬伏特</string>
+
+    <string name="textVuplix"> 六尾</string>
+    <string name="textVuplixHp"> 100</string>
+    <string name="textVuplixAttack"> 7</string>
+    <string name="textVuplixDefense"> 4</string>
+    <string name="textVuplixBodytype"> 中</string>
+    <string name="textVuplixAttribute"> 草系</string>
+    <string name="textVuplixAttack1"> 火花</string>
+    <string name="textVuplixAttack2"> 電光石火</string>
+    <string name="textVuplixAttack3"> 火焰衝擊</string>
+
+    <string name="textMinun"> 負電拍拍</string>
+    <string name="textMinunHp"> 80</string>
+    <string name="textMinunAttack"> 6</string>
+    <string name="textMinunDefense"> 3</string>
+    <string name="textMinunBodytype"> 小</string>
+    <string name="textMinunAttribute"> 電擊系</string>
+    <string name="textMinunAttack1"> 閃光</string>
+    <string name="textMinunAttack2"> 電光石火</string>
+    <string name="textMinunAttack3"> 放電</string>
+
+    <string name="textMew"> 夢幻</string>
+    <string name="textMewHp"> 250</string>
+    <string name="textMewAttack"> 10</string>
+    <string name="textMewDefense"> 6</string>
+    <string name="textMewBodytype"> 小</string>
+    <string name="textMewAttribute"> 無形系</string>
+    <string name="textMewAttack1"> 閃光</string>
+    <string name="textMewAttack2"> 電光石火</string>
+    <string name="textMewAttack3"> 十萬伏特</string>
+
+    <string name="textDratini"> 迷你龍</string>
+    <string name="textDartiniHp"> 150</string>
+    <string name="textDartiniAttack"> 8</string>
+    <string name="textDartiniDefense"> 4</string>
+    <string name="textDartiniBodytype"> 小</string>
+    <string name="textDartiniAttribute"> 水系</string>
+    <string name="textDratiniAttack1"> 噬咬</string>
+    <string name="textDratiniAttack2"> 龍之吐息</string>
+    <string name="textDratiniAttack3"> 龍捲風</string>
+
+    <string name="textSnorlax"> 卡比獸</string>
+    <string name="textSnorlaxHp"> 200</string>
+    <string name="textSnorlaxAttack"> 6</string>
+    <string name="textSnorlaxDefense"> 10</string>
+    <string name="textSnorlaxBodytype"> 大</string>
+    <string name="textSnorlaxAttribute"> 岩石系</string>
+    <string name="textSnorlaxAttack1"> 意念頭槌</string>
+    <string name="textSnorlaxAttack2"> 舔</string>
+    <string name="textSnorlaxAttack3"> 破壞死光</string>
+
+    <string name="textWailmer"> 吼吼鯨</string>
+    <string name="textWailmerHp"> 180</string>
+    <string name="textWailmerAttack"> 5</string>
+    <string name="textWailmerDefense"> 8</string>
+    <string name="textWailmerBodytype"> 大</string>
+    <string name="textWailmerAttribute"> 水系</string>
+    <string name="textWailmerAttack1"> 噴水</string>
+    <string name="textWailmerAttack2"> 壓制</string>
+    <string name="textWailmerAttack3"> 水之波動</string>
+
+    <string name="textSlowbro"> 呆河馬</string>
+    <string name="textSlowbroHp"> 180</string>
+    <string name="textSlowbroAttack"> 8</string>
+    <string name="textSlowbroDefense"> 6</string>
+    <string name="textSlowbroBodytype"> 大</string>
+    <string name="textSlowbroAttribute"> 水系</string>
+    <string name="textSlowbroAttack1"> 念力</string>
+    <string name="textSlowbroAttack2"> 噴水</string>
+    <string name="textSlowbroAttack3"> 冷凍光束</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Fullstendig dato</string>
+		</dict>
+		<integer>4</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Lang dato</string>
+		</dict>
+		<integer>3</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Mellomlang dato</string>
+		</dict>
+		<integer>2</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Kort dato</string>
+		</dict>
+		<integer>1</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Kort tid</string>
+		</dict>
+		<integer>0</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Mellomlang tid</string>
+		</dict>
+		<integer>0</integer>
+		<integer>2</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Lang dato og tid</string>
+		</dict>
+		<integer>3</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Tilpasset</string>
+		</dict>
+		<integer>0</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+</array>
+</plist>

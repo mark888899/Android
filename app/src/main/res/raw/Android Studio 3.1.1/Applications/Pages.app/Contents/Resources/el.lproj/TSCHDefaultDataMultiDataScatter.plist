@@ -1,0 +1,82 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                0,
+                30
+            ),
+                        (
+                3,
+                4,
+                11,
+                38
+            ),
+                        (
+                5,
+                5,
+                19,
+                20
+            ),
+                        (
+                6,
+                8,
+                26,
+                17
+            ),
+                        (
+                8,
+                13,
+                33,
+                24
+            ),
+                        (
+                9,
+                16,
+                40,
+                31
+            ),
+                        (
+                11,
+                18,
+                70,
+                23
+            ),
+                        (
+                12,
+                20,
+                51,
+                15
+            ),
+                        (
+                15,
+                24,
+                40,
+                6
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U03a0\U03b5\U03c1\U03b9\U03bf\U03c7\U03ae 1",
+                "\U03a0\U03b5\U03c1\U03b9\U03bf\U03c7\U03ae 1",
+                "\U03a0\U03b5\U03c1\U03b9\U03bf\U03c7\U03ae 2",
+                "\U03a0\U03b5\U03c1\U03b9\U03bf\U03c7\U03ae 3"
+            );
+            RowNames =             (
+                "\U0391\U03c0\U03c1\U03af\U03bb\U03b9\U03bf\U03c2",
+                "\U039c\U03ac\U03b9\U03bf\U03c2",
+                "\U0399\U03bf\U03cd\U03bd\U03b9\U03bf\U03c2",
+                "\U0399\U03bf\U03cd\U03bb\U03b9\U03bf\U03c2",
+                "\U0391\U03cd\U03b3\U03bf\U03c5\U03c3\U03c4\U03bf\U03c2",
+                "\U03a3\U03b5\U03c0\U03c4\U03ad\U03bc\U03b2\U03c1\U03b9\U03bf\U03c2",
+                "\U039f\U03ba\U03c4\U03ce\U03b2\U03c1\U03b9\U03bf\U03c2",
+                "\U039d\U03bf\U03ad\U03bc\U03b2\U03c1\U03b9\U03bf\U03c2",
+                "\U0394\U03b5\U03ba\U03ad\U03bc\U03b2\U03c1\U03b9\U03bf\U03c2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

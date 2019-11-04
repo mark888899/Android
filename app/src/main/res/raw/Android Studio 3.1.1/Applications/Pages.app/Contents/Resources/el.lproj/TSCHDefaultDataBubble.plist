@@ -1,0 +1,72 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                20
+            ),
+                        (
+                3,
+                4,
+                34
+            ),
+                        (
+                5,
+                5,
+                12
+            ),
+                        (
+                6,
+                8,
+                50
+            ),
+                        (
+                8,
+                13,
+                70
+            ),
+                        (
+                9,
+                16,
+                35
+            ),
+                        (
+                11,
+                18,
+                68
+            ),
+                        (
+                12,
+                20,
+                22
+            ),
+                        (
+                15,
+                24,
+                35
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "\U0391\U03c0\U03c1\U03af\U03bb\U03b9\U03bf\U03c2",
+                "\U039c\U03ac\U03b9\U03bf\U03c2",
+                "\U0399\U03bf\U03cd\U03bd\U03b9\U03bf\U03c2"
+            );
+            RowNames =             (
+                "\U0391\U03c0\U03c1\U03af\U03bb\U03b9\U03bf\U03c2",
+                "\U039c\U03ac\U03b9\U03bf\U03c2",
+                "\U0399\U03bf\U03cd\U03bd\U03b9\U03bf\U03c2",
+                "\U0399\U03bf\U03cd\U03bb\U03b9\U03bf\U03c2",
+                "\U0391\U03cd\U03b3\U03bf\U03c5\U03c3\U03c4\U03bf\U03c2",
+                "\U03a3\U03b5\U03c0\U03c4\U03ad\U03bc\U03b2\U03c1\U03b9\U03bf\U03c2",
+                "\U039f\U03ba\U03c4\U03ce\U03b2\U03c1\U03b9\U03bf\U03c2",
+                "\U039d\U03bf\U03ad\U03bc\U03b2\U03c1\U03b9\U03bf\U03c2",
+                "\U0394\U03b5\U03ba\U03ad\U03bc\U03b2\U03c1\U03b9\U03bf\U03c2"
+            );
+        };
+    };
+    Model =     {
+    };
+}

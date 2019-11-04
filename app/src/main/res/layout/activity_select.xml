@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sky"
+    tools:context=".controller.selectActivity">
+
+
+    <ImageView
+        android:id="@+id/change_Pokemon"
+        android:layout_width="175dp"
+        android:layout_height="194dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="121dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textback"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-84dp"
+        android:text="@string/chPokemon"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="30sp" />
+
+    <RadioGroup
+        android:id="@+id/chPokemon"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="118dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radBtCorsola"
+            android:layout_width="118dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:text="@string/textCorsola"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/radBtEevee"
+            android:layout_width="94dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/textEevee"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/radBtPulse"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/textPulse"
+            android:textSize="18sp" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/textback"
+        android:layout_width="184dp"
+        android:layout_height="301dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="84dp"
+        app:srcCompat="@drawable/textback" />
+
+    <TextView
+        android:id="@+id/select_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="106dp"
+        android:layout_marginTop="162dp"
+        android:text="@string/pkname"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/select_hp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/select_name"
+        android:layout_below="@+id/select_name"
+        android:text="@string/hp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/select_defense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/select_name"
+        android:layout_below="@+id/select_attack"
+        android:text="@string/defense"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/select_bodytype"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/select_name"
+        android:layout_below="@+id/select_defense"
+        android:text="@string/bodytype"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/select_attribute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/select_name"
+        android:layout_below="@+id/select_bodytype"
+        android:text="@string/attribute"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/change_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/change_hp"
+        android:layout_alignTop="@+id/select_name"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/change_bodytype"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/change_hp"
+        android:layout_below="@+id/select_defense"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/change_attribute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/change_hp"
+        android:layout_below="@+id/select_bodytype"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/select_done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="23dp"
+        android:text="@string/done"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/select_attack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/select_name"
+        android:layout_below="@+id/select_hp"
+        android:text="@string/attack"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/change_hp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/select_hp"
+        android:layout_marginEnd="57dp"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/change_attack"
+        android:layout_width="12dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/select_hp"
+        android:layout_marginEnd="-12dp"
+        android:layout_toStartOf="@+id/change_name"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/change_defense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/change_name"
+        android:layout_alignTop="@+id/select_defense"
+        android:textSize="18sp" />
+
+</RelativeLayout>

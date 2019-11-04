@@ -1,0 +1,46 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                60
+            ),
+                        (
+                20,
+                50
+            ),
+                        (
+                30,
+                40
+            ),
+                        (
+                40,
+                30
+            ),
+                        (
+                50,
+                20
+            ),
+                        (
+                60,
+                10
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Nisan,
+                "May\U0131s"
+            );
+            RowNames =             (
+                "B\U00f6lge 1",
+                "B\U00f6lge 2",
+                "B\U00f6lge 3",
+                "B\U00f6lge 4",
+                "B\U00f6lge 5",
+                "B\U00f6lge 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

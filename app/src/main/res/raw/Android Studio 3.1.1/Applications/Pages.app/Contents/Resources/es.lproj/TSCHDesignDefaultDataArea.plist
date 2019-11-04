@@ -1,0 +1,60 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                10,
+                10,
+                10
+            ),
+                        (
+                20,
+                20,
+                20,
+                20
+            ),
+                        (
+                30,
+                30,
+                30,
+                30
+            ),
+                        (
+                40,
+                40,
+                40,
+                40
+            ),
+                        (
+                50,
+                50,
+                50,
+                50
+            ),
+                        (
+                60,
+                60,
+                60,
+                60
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Abril,
+                Mayo,
+                Junio,
+                Julio
+            );
+            RowNames =             (
+                "Regi\U00f3n 1",
+                "Regi\U00f3n 2",
+                "Regi\U00f3n 3",
+                "Regi\U00f3n 4",
+                "Regi\U00f3n 5",
+                "Regi\U00f3n 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/Clock icon.tiff</key>
+		<data>
+		ZSy1XHX0pqK7hPQtTeIRyxfNRTo=
+		</data>
+		<key>Resources/CoRD Help/CoRD Help.helpindex</key>
+		<data>
+		eCtUUim5Oyf1VC7TM5jnJTLUI+0=
+		</data>
+		<key>Resources/CoRD Help/html/AdvancedPreferences.html</key>
+		<data>
+		67eKG+pYKyiySljo4LhsfiJO8QQ=
+		</data>
+		<key>Resources/CoRD Help/html/ConnectionOptions.html</key>
+		<data>
+		/MZ5NCUVX5FMka+w0tzqblKqQww=
+		</data>
+		<key>Resources/CoRD Help/html/ConnectionPreferences.html</key>
+		<data>
+		VGKCWO8EunY1a59zQpKtOuvEyDs=
+		</data>
+		<key>Resources/CoRD Help/html/ForwardingPreferences.html</key>
+		<data>
+		BwY3L/Sgko4quyxwe+91+PkN1sM=
+		</data>
+		<key>Resources/CoRD Help/html/GeneralPreferences.html</key>
+		<data>
+		QPCG6stNvrpuJjUBJ8H04edTAKo=
+		</data>
+		<key>Resources/CoRD Help/html/GettingStarted.html</key>
+		<data>
+		/UBRMJZQ8L9Vi1K3SmvKFJsFPpU=
+		</data>
+		<key>Resources/CoRD Help/html/KeyboardShortcuts.html</key>
+		<data>
+		4uDs3kryTvVZQRhfkVWbJKhoS80=
+		</data>
+		<key>Resources/CoRD Help/images/MiniScreenshot.jpg</key>
+		<data>
+		ARZNzdl++SUS4vsPu+oNCsO6dxs=
+		</data>
+		<key>Resources/CoRD Help/images/cord16.png</key>
+		<data>
+		WXc++Mfh7XljPEG6lVw3vYJpYH8=
+		</data>
+		<key>Resources/CoRD Help/index.html</key>
+		<data>
+		cYGqd45jTBndULUXDFeDoygmYHs=
+		</data>
+		<key>Resources/CoRD Help/style/contentpage.css</key>
+		<data>
+		JH/8n4oT53AX8+PrXnLMUC0bwLg=
+		</data>
+		<key>Resources/CoRD Help/style/mainpage.css</key>
+		<data>
+		d0kvBq8sdECozfuuAJ/gA1k5HRg=
+		</data>
+		<key>Resources/CoRD.icns</key>
+		<data>
+		JIfmdFQMDgRkPQgBZE257dZWC90=
+		</data>
+		<key>Resources/ConnectionDefaultsIcon.tiff</key>
+		<data>
+		1N/NnHLJHZOnrefYtHn/vhO3t4U=
+		</data>
+		<key>Resources/Credits.rtf</key>
+		<data>
+		yDYJs9XOI0JGvYs2E+hquY45UZo=
+		</data>
+		<key>Resources/Defaults.plist</key>
+		<data>
+		cMxVM/44yUwO88CVR61S7x3dzQ4=
+		</data>
+		<key>Resources/Disconnect.tiff</key>
+		<data>
+		yMpIlBL3sClUo5RBcSNUNFcEsIw=
+		</data>
+		<key>Resources/English.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3oWBRm1+UHfp5ws7k3MxeFeSPPU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X3JoUlbd1ESEnygZ5W0lzwnS1ac=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/English.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ag0+d2IrM9AMu1RGt9P8s2JOTVk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/ForwardPrefs.tiff</key>
+		<data>
+		L/i7na1G2NpZtzOXz4axWKayftk=
+		</data>
+		<key>Resources/French.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zDqzUOpuTu/ZimrQeybfRJyiHMc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Fullscreen.tiff</key>
+		<data>
+		sdTsHGi60ctyLCFbYHASWqrssSs=
+		</data>
+		<key>Resources/German.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			otCP89lvR1y5wMQpp2WXDDJ7Lgk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Next-Template.tiff</key>
+		<data>
+		Ss3F2+KoaVJ1N2N+lTULULpSNgo=
+		</data>
+		<key>Resources/Previous-Template.tiff</key>
+		<data>
+		PDIIdf/p76lBL/jQ7gHhFkWUIVs=
+		</data>
+		<key>Resources/RDP Document File.icns</key>
+		<data>
+		mqilJ4Ho6Dhb4TIbtSeYBX9+3J4=
+		</data>
+		<key>Resources/RDP Document Gray.icns</key>
+		<data>
+		P8kedn5TRRrDMZ+1pXLGIj624gk=
+		</data>
+		<key>Resources/Servers.tiff</key>
+		<data>
+		+WTXDdQL6IeVJhQjgeaVDRCoop0=
+		</data>
+		<key>Resources/Stop.tiff</key>
+		<data>
+		ZAXdPVJWEpSWwy+M2dwJ0nBaPbo=
+		</data>
+		<key>Resources/Unified.tiff</key>
+		<data>
+		kFcvcaEieyG9SKRRApZa1B7OukI=
+		</data>
+		<key>Resources/Windowed.tiff</key>
+		<data>
+		loKVjMESuzHXvaLYEpO+bj3FX3g=
+		</data>
+		<key>Resources/dsa_pub.pem</key>
+		<data>
+		OGo3zGB/3XItypstNJ/zJ5mL9r0=
+		</data>
+		<key>Resources/i Button Face.tiff</key>
+		<data>
+		9QS0C3C0GV/i9x9FGJUkqznUOIo=
+		</data>
+		<key>Resources/keymap.txt</key>
+		<data>
+		zhudg8tHq16zPKr0i5n05GSPGZ8=
+		</data>
+		<key>Resources/windows_keymap_table.txt</key>
+		<data>
+		RQt4BsQ4l8FO4bCCqumtgdYg/lU=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

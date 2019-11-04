@@ -1,0 +1,75 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                4,
+                0
+            ),
+                        (
+                3,
+                4,
+                7,
+                2
+            ),
+                        (
+                5,
+                5,
+                8,
+                4
+            ),
+                        (
+                6,
+                8,
+                11,
+                6
+            ),
+                        (
+                8,
+                13,
+                14,
+                8
+            ),
+                        (
+                9,
+                16,
+                15,
+                12
+            ),
+                        (
+                11,
+                18,
+                17,
+                15
+            ),
+                        (
+                12,
+                20,
+                20,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Th\U00e1ng 4",
+                "Th\U00e1ng 5",
+                "Th\U00e1ng 6",
+                "Th\U00e1ng 7"
+            );
+            RowNames =             (
+                "Th\U00e1ng 4",
+                "Th\U00e1ng 5",
+                "Th\U00e1ng 6",
+                "Th\U00e1ng 7",
+                "Th\U00e1ng 8",
+                "Th\U00e1ng 9",
+                "Th\U00e1ng 10",
+                "Th\U00e1ng 11"
+            );
+        };
+    };
+    Model =     {
+    };
+}

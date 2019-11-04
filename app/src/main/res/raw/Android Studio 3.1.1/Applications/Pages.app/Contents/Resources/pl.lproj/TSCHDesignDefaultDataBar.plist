@@ -1,0 +1,46 @@
+{
+    Grid =     {
+        Values =         (
+                        (
+                10,
+                60
+            ),
+                        (
+                20,
+                50
+            ),
+                        (
+                30,
+                40
+            ),
+                        (
+                40,
+                30
+            ),
+                        (
+                50,
+                20
+            ),
+                        (
+                60,
+                10
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                "Kwiecie\U0144",
+                Maj
+            );
+            RowNames =             (
+                "Region 1",
+                "Region 2",
+                "Region 3",
+                "Region 4",
+                "Region 5",
+                "Region 6"
+            );
+        };
+    };
+    Model =     {
+    };
+}

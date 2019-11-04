@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="textNoPokemon">no pokemons</string>
+    <string name="textMyPokemons">my treasure box</string>
+    <string name="textBallHunt">Direct Catch</string>
+    <string name="textMyPokemonHunt">Fight</string>
+    <string name="textPokemonDodge">%s miss your ball</string>
+    <string name="textPokemonRunAway">You lose,enemy is escaped</string>
+    <string name="textPokemonBag">Your Pokemon</string>
+    <string name="textPokemonCaught">Congratulations ! %s the pokemon is captured</string>
+    <string name="textPokemonMove">%s Attack: %s  Sp get:  %s</string>
+    <string name="textPokemonCharge">%s Attack: %s  Sp cost:  %s</string>
+    <string name="textPokemonHunt">%s V.S. %s</string>
+    <string name="done">Enter</string>
+    <string name="Ball">Pokemon Ball</string>
+    <string name="covermap">Cover</string>
+    <string name="error2">Please Select your Pokemon</string>
+    <string name="exit">Exit</string>
+    <string name="exit2">Double check to exit</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="textPokemonInfo">%s Information</string>
+    <string name="PokemonInfo">PokemonInfromation</string>
+    <string name="remain">"remaining times : %s"</string>
+
+    <string name="check">Check Info</string>
+
+    <string name="chPokemon">Select your first Pokemon</string>
+    <string name="name">Name</string>
+    <string name="entername"> Enter PlayerName</string>
+    <string name="chsex"> select your role</string>
+    <string name="male"> Boy</string>
+    <string name="female"> Gril</string>
+    <string name="pkname"><u> PKName</u></string>
+    <string name="hp"><u> Hp</u></string>
+    <string name="attack"><u>Attack</u></string>
+    <string name="defense"><u>Defense</u></string>
+    <string name="bodytype"><u>Bodytype</u></string>
+    <string name="attribute"><u>Attribute</u></string>
+
+    <string name="skill">skill</string>
+    <string name="Nirvana">Nirvana</string>
+
+    <string name="currentHp"><u><b>CurrentHp</b></u></string>
+    <string name="enemyName"><u><b>EnemyName</b></u></string>
+
+
+
+
+    <string name="textEevee"> Eevee</string>
+    <string name="textEeveeHp"> 100</string>
+    <string name="textEeveeAttack"> 7</string>
+    <string name="textEeveeDefense"> 4</string>
+    <string name="textEeveeBodytype"> Min</string>
+    <string name="textEeveeAttribute"> 草系</string>
+    <string name="textEeveeAttack1"> Quick Attack</string>
+    <string name="textEeveeAttack2"> Tackle</string>
+    <string name="textEeveeAttack3"> swift star</string>
+
+    <string name="textCorsola"> Corsola</string>
+    <string name="textCorsolaHp"> 150</string>
+    <string name="textCorsolaAttack"> 5</string>
+    <string name="textCorsolaDefense"> 8</string>
+    <string name="textCorsolaBodytype"> 小</string>
+    <string name="textCorsolaAttribute"> 水系</string>
+    <string name="textCorsolaAttack1"> foam</string>
+    <string name="textCorsolaAttack2"> Tackle</string>
+    <string name="textCorsolaAttack3"> bubble beam</string>
+
+    <string name="textPulse"> Pusle</string>
+    <string name="textPulseHp"> 80</string>
+    <string name="textPulseAttack"> 6</string>
+    <string name="textPulseDefense"> 3</string>
+    <string name="textPulseBodytype"> 小</string>
+    <string name="textPulseAttribute"> 電擊系</string>
+    <string name="textPulseAttack1"> flicker</string>
+    <string name="textPulseAttack2"> Quick Attack</string>
+    <string name="textPulseAttack3"> Thunderbolt</string>
+
+    <string name="textVuplix"> Vulpix</string>
+    <string name="textVuplixHp"> 100</string>
+    <string name="textVuplixAttack"> 7</string>
+    <string name="textVuplixDefense"> 4</string>
+    <string name="textVuplixBodytype"> 中</string>
+    <string name="textVuplixAttribute"> 草系</string>
+    <string name="textVuplixAttack1"> spark</string>
+    <string name="textVuplixAttack2"> Quick Attack</string>
+    <string name="textVuplixAttack3"> Fire tackle</string>
+
+    <string name="textMinun"> Minun</string>
+    <string name="textMinunHp"> 80</string>
+    <string name="textMinunAttack"> 6</string>
+    <string name="textMinunDefense"> 3</string>
+    <string name="textMinunBodytype"> 小</string>
+    <string name="textMinunAttribute"> 電擊系</string>
+    <string name="textMinunAttack1"> spark</string>
+    <string name="textMinunAttack2"> quick</string>
+    <string name="textMinunAttack3"> discharge</string>
+
+    <string name="textMew"> Mew</string>
+    <string name="textMewHp"> 250</string>
+    <string name="textMewAttack"> 10</string>
+    <string name="textMewDefense"> 6</string>
+    <string name="textMewBodytype"> 小</string>
+    <string name="textMewAttribute"> 無形系</string>
+    <string name="textMewAttack1"> flash</string>
+    <string name="textMewAttack2"> quick attack</string>
+    <string name="textMewAttack3"> Thunderbolt</string>
+
+    <string name="textDratini"> Dratini</string>
+    <string name="textDartiniHp"> 150</string>
+    <string name="textDartiniAttack"> 8</string>
+    <string name="textDartiniDefense"> 4</string>
+    <string name="textDartiniBodytype"> 小</string>
+    <string name="textDartiniAttribute"> 水系</string>
+    <string name="textDratiniAttack1"> bite</string>
+    <string name="textDratiniAttack2"> dragon breath</string>
+    <string name="textDratiniAttack3"> tornado</string>
+
+    <string name="textSnorlax"> Snorlax</string>
+    <string name="textSnorlaxHp"> 200</string>
+    <string name="textSnorlaxAttack"> 6</string>
+    <string name="textSnorlaxDefense"> 10</string>
+    <string name="textSnorlaxBodytype"> 大</string>
+    <string name="textSnorlaxAttribute"> 岩石系</string>
+    <string name="textSnorlaxAttack1"> Zen Headbutt</string>
+    <string name="textSnorlaxAttack2"> lick</string>
+    <string name="textSnorlaxAttack3"> Hyper Beam</string>
+
+    <string name="textWailmer"> Wailmer</string>
+    <string name="textWailmerHp"> 180</string>
+    <string name="textWailmerAttack"> 5</string>
+    <string name="textWailmerDefense"> 8</string>
+    <string name="textWailmerBodytype"> 大</string>
+    <string name="textWailmerAttribute"> 水系</string>
+    <string name="textWailmerAttack1"> spary water</string>
+    <string name="textWailmerAttack2"> suppress</string>
+    <string name="textWailmerAttack3"> Water Pulse</string>
+
+    <string name="textSlowbro"> Slowbro</string>
+    <string name="textSlowbroHp"> 180</string>
+    <string name="textSlowbroAttack"> 8</string>
+    <string name="textSlowbroDefense"> 6</string>
+    <string name="textSlowbroBodytype"> 大</string>
+    <string name="textSlowbroAttribute"> 水系</string>
+    <string name="textSlowbroAttack1"> psychokinesis</string>
+    <string name="textSlowbroAttack2"> spray water</string>
+    <string name="textSlowbroAttack3"> Ice Beam</string>
+
+</resources>

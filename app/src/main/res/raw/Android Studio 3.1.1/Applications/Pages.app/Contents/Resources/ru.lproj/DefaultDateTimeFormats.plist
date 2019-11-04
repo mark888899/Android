@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Полный формат даты</string>
+		</dict>
+		<integer>4</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Длинный формат даты</string>
+		</dict>
+		<integer>3</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Средний формат даты</string>
+		</dict>
+		<integer>2</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Краткий формат даты</string>
+		</dict>
+		<integer>1</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Краткий формат времени</string>
+		</dict>
+		<integer>0</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Средний формат времени</string>
+		</dict>
+		<integer>0</integer>
+		<integer>2</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Длинный формат даты и времени</string>
+		</dict>
+		<integer>3</integer>
+		<integer>1</integer>
+		<string></string>
+	</array>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<string>Произвольный</string>
+		</dict>
+		<integer>0</integer>
+		<integer>0</integer>
+		<string></string>
+	</array>
+</array>
+</plist>

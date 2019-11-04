@@ -1,0 +1,75 @@
+{
+    Grid =     {
+        Direction = ByColumn;
+        Values =         (
+                        (
+                1,
+                2,
+                4,
+                0
+            ),
+                        (
+                3,
+                4,
+                7,
+                2
+            ),
+                        (
+                5,
+                5,
+                8,
+                4
+            ),
+                        (
+                6,
+                8,
+                11,
+                6
+            ),
+                        (
+                8,
+                13,
+                14,
+                8
+            ),
+                        (
+                9,
+                16,
+                15,
+                12
+            ),
+                        (
+                11,
+                18,
+                17,
+                15
+            ),
+                        (
+                12,
+                20,
+                20,
+                18
+            )
+        );
+        "_LOCALIZABLE_" =         {
+            ColumnNames =             (
+                Avril,
+                Mai,
+                Juin,
+                Juillet
+            );
+            RowNames =             (
+                Avril,
+                Mai,
+                Juin,
+                Juillet,
+                "Ao\U00fbt",
+                Septembre,
+                Octobre,
+                Novembre
+            );
+        };
+    };
+    Model =     {
+    };
+}
